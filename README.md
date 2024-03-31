@@ -1,5 +1,5 @@
 README.md<h2 align="center">
-           ──「  𝐋𝐎𝐊𝐄𝐒𝐇 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
+           ──「  ᴛᴏxɪᴄ 𝓧 ᴍᴜꜱɪᴄ 」──
 </h2>
 
 <a href="https://www.gambaranimasi.org/cat-bintang-290.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
@@ -12,11 +12,11 @@ README.md<h2 align="center">
 </p>
 
 <p align="center">
-<a href="https://github.com/WCGKING/LOKESHXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/LOKESHXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/LOKESHXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/LOKESHXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/LOKESHXMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/jack77force/LOKESHXMUSIC/stargazers"><img src="https://img.shields.io/github/stars/jack77force/LOKESHXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/jack77force/LOKESHXMUSIC/network/members"> <img src="https://img.shields.io/github/forks/jack77force/LOKESHXMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/jack77force/LOKESHXMUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/LOKESHXMUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/LOKESHXMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/jack77force/LOKESHXMUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/jack77force/LOKESHXMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <p align="center">
   <img src="https://telegra.ph/file/2ca9afbd8cbf69b6ea49b.jpg">
@@ -88,4 +88,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/WCGKING"> <img src="https://img.shields.io/badge/WCGKING-black?style=for-the-badge&logo=github" alt="WCGKING" /> </a>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/jack77force) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/jack77force/SYSTUM). </b>
